@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DefenseWar.vcxproj" Id="0241bd2f-9d28-4b51-988f-58d7fa211ecf" />
+</Solution>
